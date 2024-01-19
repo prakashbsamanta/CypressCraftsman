@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/fixtures/
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Dependency directories
+.jest/
+.pnpm/
+.npm/
+
+# Build files
+build/
+dist/
+out/
+*.log
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.test
+.env.production
+
+# Other
+*.sqlite
+*.zip
